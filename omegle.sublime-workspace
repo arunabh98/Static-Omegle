@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"img"
+			],
+			[
+				"img",
+				"img_original"
+			],
+			[
+				"tmp",
+				"tmp_loc"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"up",
+				"upload_storage"
+			],
+			[
+				"bar",
+				"bar2_x"
+			],
+			[
+				"circle",
+				"circle_x"
+			],
+			[
+				"circl",
+				"circle_x"
+			],
+			[
+				"Aru",
+				"Arunabh"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"FI",
+				"File"
+			],
+			[
+				"doc_",
+				"doc_file"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"news",
+				"news_upload"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Co",
+				"CommentForm"
+			],
+			[
+				"T",
+				"TemplateView"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"rep",
+				"reply_comments"
+			],
+			[
+				"comm",
+				"comment_link"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"form",
+				"form_obj"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"N",
+				"NewsListView"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"doc",
+				"doc_file"
+			],
+			[
+				"D",
+				"DocumentationAdmin"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"resource",
+				"resource_type"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"course",
+				"course_name"
+			],
+			[
+				"g",
+				"get_object_or_404"
+			],
+			[
+				"cou",
+				"course_name"
+			],
+			[
+				"cu",
+				"course_detail"
+			],
+			[
+				"cour",
+				"course_id"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"que",
+				"queryset_list"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"s",
+				"settings"
+			],
+			[
+				"pag",
+				"page_request_var"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"last_filter": "Package Control: Install Package",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/darknight/soc_omegle"
+	],
+	"file_history":
+	[
+		"/home/darknight/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/darknight/.bash_profile",
+		"/home/darknight/Desktop/oksp/docupload/models.py",
+		"/home/darknight/Desktop/omegle/static_omegle/models.py",
+		"/home/darknight/.config/sublime-text-3/Local/Session.sublime_session",
+		"/home/darknight/Desktop/staticomegle/static_chat/models.py",
+		"/home/darknight/Desktop/blog/my-blog/_posts/2016-05-13-burglar-alarm.md",
+		"/home/darknight/Desktop/blog/my-blog/_posts/2016-05-21-slam.md",
+		"/home/darknight/elec-club-iitb.github.io/_posts/2016-05-23-slam.md",
+		"/home/darknight/Documents/oksp/docupload/htmlify.py",
+		"/home/darknight/Desktop/oksp/docupload/templates/docupload/wysiwyg.html",
+		"/home/darknight/Desktop/oksp/docupload/htmlify.py",
+		"/home/darknight/Desktop/oksp/requirements/common.txt",
+		"/home/darknight/Desktop/blog/my-blog/_posts/2016-05-18-googleio.md",
+		"/etc/profile",
+		"/home/darknight/elec-club-iitb.github.io/_posts/2016-05-13-burglar-alarm.md",
+		"/home/darknight/Desktop/backup.md",
+		"/home/darknight/Desktop/blog/my-blog/_posts/2015-08-31-example-post.md",
+		"/home/darknight/elec-club-iitb.github.io/_posts/2016-05-03-working-of-a-dlp-projector.md",
+		"/home/darknight/Desktop/oksp/oksp/settings/base_settings.py",
+		"/home/darknight/project/app/Http/Controllers/PagesController.php",
+		"/home/darknight/project/app/Http/routes.php",
+		"/home/darknight/project/resources/views/welcome.blade.php",
+		"/home/darknight/project/resources/views/pages/about.blade.php",
+		"/etc/apt/sources.list",
+		"/home/darknight/Desktop/projects/my-blog/_config.yml",
+		"/home/darknight/Desktop/projects/my-blog/_data/nav.yml",
+		"/home/darknight/Desktop/blog/my-blog/_data/nav.yml",
+		"/home/darknight/Desktop/projects/my-blog/_includes/footer.html",
+		"/home/darknight/Desktop/projects/my-blog/_data/global.yml",
+		"/home/darknight/Desktop/projects/my-blog/_includes/header.html",
+		"/home/darknight/Desktop/projects/my-blog/index.html",
+		"/home/darknight/Desktop/projects/my-blog/.sass-cache/8f3ea672282b72813e0a560d8cc7753bf21bd024/_glyphicons.scssc",
+		"/home/darknight/Desktop/projects/my-blog/_sass/bootstrap/_glyphicons.scss",
+		"/home/darknight/Desktop/projects/my-blog/_site/about/index.html",
+		"/home/darknight/Desktop/projects/my-blog/_site/air-hockey.html",
+		"/home/darknight/Desktop/projects/my-blog/_site/asteroids.html",
+		"/home/darknight/Desktop/projects/my-blog/_site/css/style.css",
+		"/home/darknight/Desktop/projects/my-blog/_site/homepage.html",
+		"/home/darknight/Desktop/projects/my-blog/_site/index.html",
+		"/home/darknight/Desktop/projects/my-blog/_site/oksp.html",
+		"/home/darknight/Desktop/projects/my-blog/_site/study.html",
+		"/home/darknight/Desktop/projects/my-blog/_posts/2016-05-12-asteroids.md",
+		"/home/darknight/Desktop/projects/my-blog/_posts/2016-05-12-air-hockey.md",
+		"/home/darknight/Desktop/projects/my-blog/_posts/2016-05-12-oksp.md",
+		"/home/darknight/Desktop/projects/my-blog/_posts/2016-05-12-homepage.md",
+		"/home/darknight/Desktop/projects/my-blog/_posts/2016-05-12-study.md",
+		"/home/darknight/Desktop/AirHockey/Main.py",
+		"/home/darknight/Desktop/Asteroids/game.py",
+		"/home/darknight/Desktop/blog/my-blog/_config.yml",
+		"/home/darknight/Desktop/blog/my-blog/_includes/footer.html",
+		"/home/darknight/Desktop/blog/my-blog/_pages/about.md",
+		"/home/darknight/Desktop/trial.html",
+		"/home/darknight/Desktop/blog/my-blog/_site/index.html",
+		"/home/darknight/Desktop/blog/my-blog/_pages/homepage.html",
+		"/home/darknight/Desktop/blog/my-blog/_pages/projects.md",
+		"/home/darknight/Desktop/HomePage/index.html",
+		"/home/darknight/Desktop/HomePage/xlr8.html",
+		"/home/darknight/Desktop/blog/my-blog/_data/global.yml",
+		"/home/darknight/Desktop/blog/my-blog/_includes/tile.html",
+		"/home/darknight/Desktop/blog/my-blog/_posts/2016-05-11-my-first-video-post.md",
+		"/home/darknight/Desktop/blog/my-blog/_posts/2015-10-08-my-first-video-post.md",
+		"/home/darknight/Desktop/blog/my-blog/_includes/header.html",
+		"/home/darknight/Desktop/blog/my-blog/.sass-cache/4f6989c48b80c66d17a5f5362eea59b2e2e11eec/_glyphicons.scssc",
+		"/home/darknight/Desktop/blog/my-blog/_site/example-post.html",
+		"/home/darknight/Desktop/blog/my-blog/_site/my-first-video-post.html",
+		"/home/darknight/Desktop/blog/my-blog/_sass/bootstrap/_glyphicons.scss",
+		"/home/darknight/Desktop/blog/my-blog/_site/about/index.html",
+		"/home/darknight/Desktop/blog/my-blog/_site/css/style.css",
+		"/home/darknight/Desktop/blog/my-blog/_site/my-first-normal-post.html",
+		"/home/darknight/Desktop/blog/Arunabh98.github.io/_layouts/default.html",
+		"/home/darknight/Desktop/blog/Arunabh98.github.io/_layouts/post.html",
+		"/home/darknight/Desktop/blog/Arunabh98.github.io/_layouts/page.html",
+		"/home/darknight/Desktop/oksp/hacker_news/templates/hacker-news/news_detail.html",
+		"/home/darknight/Desktop/oksp/docupload/views.py",
+		"/home/darknight/Desktop/oksp/hacker_news/templates/hacker-news/news.html",
+		"/home/darknight/Desktop/oksp/hacker_news/templates/hacker-news/header.html",
+		"/home/darknight/Desktop/oksp/hacker_news/models.py",
+		"/home/darknight/Desktop/oksp/hacker_news/views.py",
+		"/home/darknight/Desktop/oksp/docupload/forms.py",
+		"/home/darknight/Desktop/oksp/hacker_news/urls.py",
+		"/home/darknight/Desktop/oksp/hacker_news/admin.py",
+		"/home/darknight/Desktop/oksp/docupload/templates/docupload/index.html",
+		"/home/darknight/Desktop/oksp/docupload/templates/docupload/markdown.html",
+		"/home/darknight/Desktop/studyiit/src/templates/course_list.html",
+		"/home/darknight/Desktop/studyiit/src/resources/views.py",
+		"/home/darknight/Desktop/oksp/docupload/urls.py",
+		"/home/darknight/Desktop/oksp/oksp/urls.py",
+		"/home/darknight/Desktop/oksp/media/image01.jpg",
+		"/home/darknight/Desktop/oksp/media/media/image01.jpg",
+		"/home/darknight/Desktop/oksp/hacker_news/forms.py",
+		"/home/darknight/Desktop/oksp/hacker_news/templates/hacker-news/comment_form.html",
+		"/home/darknight/Desktop/oksp/hacker_news/templates/hacker-news/news_upload.html",
+		"/home/darknight/Desktop/studyiit/src/resources/models.py",
+		"/home/darknight/Desktop/oksp/static/hacker-news/img/profile.jpg",
+		"/home/darknight/Desktop/oksp/static/hacker-news/img/upvote.png",
+		"/home/darknight/Desktop/oksp/static/hacker-news/css/header.css",
+		"/home/darknight/Desktop/oksp/docupload/templates/docupload/editor_choice.html",
+		"/home/darknight/Desktop/oksp/docupload/admin.py",
+		"/home/darknight/Desktop/oksp/docupload/templates/docupload/base.html",
+		"/home/darknight/Desktop/oksp/docupload/tests.py",
+		"/home/darknight/Desktop/oksp/docupload/templates/docupload/wsyiwyg.html",
+		"/home/darknight/Downloads/web/index.html",
+		"/home/darknight/Desktop/studyiit/src/resources/forms.py",
+		"/home/darknight/Desktop/studyiit/src/templates/resource_form.html",
+		"/home/darknight/Desktop/oksp/oksp/settings/conf.py",
+		"/home/darknight/Desktop/studyiit/src/templates/resource_list.html",
+		"/home/darknight/Desktop/studyiit/src/templates/course_detail.html",
+		"/home/darknight/Desktop/studyiit/src/templates/base.html",
+		"/home/darknight/Desktop/studyiit/src/templates/ldap_login.html",
+		"/home/darknight/Desktop/studyiit/src/templates/messages_display.html",
+		"/home/darknight/Desktop/studyiit/src/templates/resource_detail.html",
+		"/home/darknight/Desktop/studyiit/src/static/css/base.css",
+		"/home/darknight/Desktop/studyiit/src/resources/urls.py",
+		"/home/darknight/Desktop/studyiit/src/static/css/course_list.css",
+		"/home/darknight/Desktop/studyiit/src/resources/admin.py",
+		"/home/darknight/Desktop/Django-First-Try-master/src/resources/urls.py",
+		"/home/darknight/Desktop/Django-First-Try-master/src/templates/resource_list.html",
+		"/home/darknight/Desktop/Django-First-Try-master/src/resources/views.py",
+		"/home/darknight/Desktop/Django-First-Try-master/src/templates/resource_detail.html",
+		"/home/darknight/Desktop/Django-First-Try-master/src/resources/models.py",
+		"/home/darknight/Desktop/Django-First-Try-master/src/studysite/settings.py",
+		"/home/darknight/Desktop/Django-First-Try/lib/python2.7/site-packages/django/core/handlers/base.py",
+		"/home/darknight/Desktop/Django-First-Try/src/studysite/settings.py",
+		"/home/darknight/Desktop/Django-First-Try/src/resources/forms.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"/home/darknight/Desktop/projects/my-blog",
+			"/home/darknight/Desktop/blog/my-blog"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu_visible",
+			"heart",
+			"speed_x",
+			"life",
+			"&copy; Arunabh Ghosh",
+			"footer text goes here",
+			"read more",
+			"heart",
+			"favicon",
+			"scotch jekyll bootstrap",
+			"scotch jekyll",
+			"DOC_DIR",
+			"DOC_DI",
+			"butt",
+			"request.PO",
+			"patterns",
+			"comment",
+			"NEW",
+			"stati",
+			"render",
+			"%\">",
+			"base_dir"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "omegle.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rou",
+				"app/Http/routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
