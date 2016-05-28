@@ -26,3 +26,17 @@ class User(models.Model):
 
     def __str__(self):
         return self.MAC
+
+
+class Chat(models.Model):
+
+    user1 = models.ForeignKey(
+        User,
+        on_delete=models.CASCADE,
+        related_name='user_who_sent_the_message')
+    user2 = models.ForeignKey(
+        User,
+        on_delete=models.CASCADE,
+        related_name='user_who_received_the_message')
+    chat_message = models.TextField()
+    status = models.TextField()

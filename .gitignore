@@ -2,3 +2,4 @@ db.sqlite3
 __pycache__
 omegle.sublime-workspace.coverage
 htmlcov
+omegle_chat/migrations
