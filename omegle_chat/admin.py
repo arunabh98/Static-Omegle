@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 # Register your models here.
-from .models import User, Chat
+from .models import User, Chat, Request
 
 
 class UserAdmin(admin.ModelAdmin):
@@ -23,5 +23,16 @@ class ChatAdmin(admin.ModelAdmin):
         model = Chat
 
 
+class RequestAdmin(admin.ModelAdmin):
+    list_display = ["user1", "age", "sex", "timestamp"]
+    list_display_links = ["user1"]
+    search_fields = ["user1", "age", "sex"]
+    list_filter = ["timestamp"]
+
+    class Meta:
+        model = Request
+
+
 admin.site.register(User, UserAdmin)
 admin.site.register(Chat, ChatAdmin)
+admin.site.register(Request, RequestAdmin)

@@ -39,4 +39,22 @@ class Chat(models.Model):
         on_delete=models.CASCADE,
         related_name='user_who_received_the_message')
     chat_message = models.TextField()
-    status = models.TextField()
+    STATUS_CHOICES = (
+        ('S', 'Invite sent'),
+        ('R', 'Invite received'),
+        ('E', 'Chat end'),
+    )
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES)
+
+
+class Request(models.Model):
+    user1 = models.ForeignKey(
+        User,
+        on_delete=models.CASCADE)
+    age = models.IntegerField()
+    GENDER_CHOICES = (
+        ('M', 'Male'),
+        ('F', 'Female'),
+    )
+    sex = models.CharField(max_length=1, choices=GENDER_CHOICES)
+    timestamp = models.DateField(auto_now_add=True)
